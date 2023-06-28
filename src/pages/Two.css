@@ -1,0 +1,16 @@
+.wel{
+    background-color: blue;
+    font-size: 40pt;
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    height: 400px;
+}
+.sec{
+    background-color: brown;
+    font-size: 20pt;
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    height: 700px;
+}

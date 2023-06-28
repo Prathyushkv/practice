@@ -1,0 +1,14 @@
+.para{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    height: 300px;
+}
+.pree{
+    background-color: khaki;
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    height: 400px;
+}
